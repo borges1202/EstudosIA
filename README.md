@@ -15,7 +15,6 @@ Repositório criado para registrar meus estudos e exercícios práticos de Intel
 
 - Python
 - Jupyter Notebook
-- Pandas
 - Scikit-learn
 
 ## Exercícios
